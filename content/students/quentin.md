@@ -52,7 +52,27 @@ projects:
 
     image: quentin/projet_03.png
 
-    link: https://www.github.com
+    link: https://github.com/nerangel/P3-HelpMacGyver.git
+
+    finished: true
+
+  - title: Analysez les besoins d'un groupe de pizzerias
+
+    description: Définir et rédiger les besoins d'un client.
+
+    image: quentin/projet_04.png
+
+    link: https://github.com/nerangel/
+
+    finished: true
+
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+
+    description: Créer un programme qui interagirait avec la base Open Food Facts
+
+    image: quentin/projet_05.png
+
+    link: https://github.com/nerangel/P5-OpenFoodFacts.git
 
     finished: false
 

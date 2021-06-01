@@ -46,6 +46,11 @@ projects:
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: anthony10/projet_3/capture_macgyver.PNG
-    link: https://openclassrooms.com/fr/projects/156/assignment
-    finished: false
+    link: https://github.com/Anthony10700/Project3
+    finished: true
+  - title: Utilisez les données publiques de l'OpenFoodFacts
+    description: Création d’un programme console qui interagit avec la base de données OpenFoodFacts.
+    image: anthony10/projet_5/Capture_p5.PNG
+    link: https://github.com/Anthony10700/Project-5
+    finished: true
 ---
